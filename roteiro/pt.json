@@ -5,13 +5,13 @@
   "kind": "hook",
   "labels": [
    "o cliente usa os mesmos agentes",
-   "ele monta a automação",
+   "ele monta a automaçêo",
    "o agente programa para ele",
    "por que ele vai pagar você?"
   ],
   "takeaway": "Se o cliente também consegue, o seu valor precisa estar em outro lugar.",
   "source": "https://ARCKHÉ AI",
-  "speech": "Imagine que o seu cliente consegue usar os mesmos agentes que você usa. Que ele mesmo consegue montar uma automação. Que o agente programa para ele. Então por que ele vai continuar pagando você? Essa é a pergunta que muita gente que trabalha com automação, agentes, consultoria, tecnologia ou gestão ainda não está se fazendo. E eu acho que é uma das mudanças mais importantes deste momento. Então vamos por partes."
+  "speech": "Imagine que o seu cliente consegue usar os mesmos agentes que você usa. Que ele mesmo consegue montar uma automaçêo. Que o agente programa para ele. Entêo por que ele vai continuar pagando você? Essa é a pergunta que muita gente que trabalha com automaçêo, agentes, consultoria, tecnologia ou gestêo ainda nêo está se fazendo. E eu acho que é uma das mudanças mais importantes deste momento. Entêo vamos por partes."
  },
  {
   "chapter": "As duas vantagens",
@@ -22,11 +22,11 @@
    "agente",
    "CRM + WhatsApp",
    "webhook, banco de dados, VPS",
-   "o cliente não sabia"
+   "o cliente nêo sabia"
   ],
-  "takeaway": "Primeira vantagem: saber fazer funcionar o que o cliente não sabia.",
+  "takeaway": "Primeira vantagem: saber fazer funcionar o que o cliente nêo sabia.",
   "source": "https://ARCKHÉ AI",
-  "speech": "Nos últimos anos, quem entrou cedo nesse mercado teve duas grandes vantagens. A primeira era técnica. Você sabia conectar uma API. Configurar um agente. Ligar o CRM com o WhatsApp. Trabalhar com webhook, banco de dados, servidor, VPS. E fazer tudo isso funcionar de um jeito minimamente confiável. O cliente não sabia. Então ele precisava de você."
+  "speech": "Nos últimos anos, quem entrou cedo nesse mercado teve duas grandes vantagens. A primeira era técnica. Você sabia conectar uma API. Configurar um agente. Ligar o CRM com o WhatsApp. Trabalhar com webhook, banco de dados, servidor, VPS. E fazer tudo isso funcionar de um jeito minimamente confiável. O cliente nêo sabia. Entêo ele precisava de você."
  },
  {
   "chapter": "As duas vantagens",
@@ -36,11 +36,11 @@
    "você: estuda IA todo dia",
    "o empresário: “o ChatGPT consegue?”",
    "distância = valor",
-   "as duas estão mudando"
+   "as duas estêo mudando"
   ],
   "takeaway": "Quanto maior a distância de conhecimento, maior o valor que você cobrava.",
   "source": "https://ARCKHÉ AI",
-  "speech": "Mas existia uma segunda vantagem, ainda maior. Você sabia muito mais sobre inteligência artificial do que o seu cliente. Você estudava IA todos os dias, enquanto o empresário ainda perguntava: “Mas o ChatGPT consegue fazer isso?” Essa diferença de conhecimento valia dinheiro. Quanto maior a distância entre o que você sabia e o que o cliente sabia, maior o valor que você entregava. E maior o valor que você conseguia cobrar. O problema é que as duas vantagens estão mudando ao mesmo tempo."
+  "speech": "Mas existia uma segunda vantagem, ainda maior. Você sabia muito mais sobre inteligência artificial do que o seu cliente. Você estudava IA todos os dias, enquanto o empresário ainda perguntava: “Mas o ChatGPT consegue fazer isso?” Essa diferença de conhecimento valia dinheiro. Quanto maior a distância entre o que você sabia e o que o cliente sabia, maior o valor que você entregava. E maior o valor que você conseguia cobrar. O problema é que as duas vantagens estêo mudando ao mesmo tempo."
  },
  {
   "chapter": "As duas mudanças",
@@ -56,7 +56,7 @@
   ],
   "takeaway": "A parte técnica está ficando mais barata, mais rápida e mais acessível.",
   "source": "https://ARCKHÉ AI",
-  "speech": "Primeira mudança: a dificuldade técnica está caindo. Há pouco tempo, automatizar uma empresa exigia alguém que entendesse documentação de API, autenticação, infraestrutura, integrações e banco de dados. Hoje você chega para um agente e diz: “Analise esse processo e construa uma solução.” E ele começa. Pesquisa. Programa. Testa. Corrige. Integra. E cada nova geração de modelos faz isso melhor do que a anterior. Não, ainda não funciona tudo perfeitamente. Mas olhe a direção. A parte técnica está ficando mais barata, mais rápida e, principalmente, mais acessível."
+  "speech": "Primeira mudança: a dificuldade técnica está caindo. Há pouco tempo, automatizar uma empresa exigia alguém que entendesse documentaçêo de API, autenticaçêo, infraestrutura, integrações e banco de dados. Hoje você chega para um agente e diz: “Analise esse processo e construa uma soluçêo.” E ele começa. Pesquisa. Programa. Testa. Corrige. Integra. E cada nova geraçêo de modelos faz isso melhor do que a anterior. Nêo, ainda nêo funciona tudo perfeitamente. Mas olhe a direçêo. A parte técnica está ficando mais barata, mais rápida e, principalmente, mais acessível."
  },
  {
   "chapter": "As duas mudanças",
@@ -72,7 +72,7 @@
   ],
   "takeaway": "A distância entre o que você sabe e o que o cliente sabe está encolhendo.",
   "source": "https://ARCKHÉ AI",
-  "speech": "A segunda mudança é ainda mais importante. O seu cliente também está aprendendo. Hoje você provavelmente ainda sabe muito mais sobre IA do que a maioria dos empresários. Mas essa distância está encolhendo rápido. Ele já usa o ChatGPT. Já testou o Claude. Já fez uma pesquisa profunda, gerou uma imagem, talvez um vídeo. Daqui a pouco ele estará usando agentes dentro da própria empresa. E é bem possível que em 2027 a diferença entre o que você sabe e o que o seu cliente sabe seja muito menor. Não igual. Mas muito menor. E aí volta aquela pergunta desconfortável do começo: se ele também consegue, por que vai pagar você?"
+  "speech": "A segunda mudança é ainda mais importante. O seu cliente também está aprendendo. Hoje você provavelmente ainda sabe muito mais sobre IA do que a maioria dos empresários. Mas essa distância está encolhendo rápido. Ele já usa o ChatGPT. Já testou o Claude. Já fez uma pesquisa profunda, gerou uma imagem, talvez um vídeo. Daqui a pouco ele estará usando agentes dentro da própria empresa. E é bem possível que em 2027 a diferença entre o que você sabe e o que o seu cliente sabe seja muito menor. Nêo igual. Mas muito menor. E aí volta aquela pergunta desconfortável do começo: se ele também consegue, por que vai pagar você?"
  },
  {
   "chapter": "Já aconteceu antes",
@@ -86,7 +86,7 @@
   ],
   "takeaway": "Quando a técnica vira commodity, ganha quem é muito bom em outra coisa.",
   "source": "https://ARCKHÉ AI",
-  "speech": "Isso não é novidade. Já aconteceu antes. Pense em criação de sites. Anos atrás, fazer um site exigia HTML, CSS, servidor, hospedagem, DNS, programação. Quem sabia fazer tinha uma habilidade rara. Depois chegaram o WordPress, o Wix e várias outras ferramentas. E hoje praticamente qualquer pessoa consegue colocar um site no ar. O mercado de sites acabou? Não. Mas fazer um site simples deixou de ser extraordinário. Virou commodity. E quem continuou ganhando bem? Quem ficou muito bom em outra coisa. Design. Marca. Conversão. Vendas. Conhecimento profundo de um setor. A tecnologia virou só uma parte da entrega. Eu acredito que a mesma coisa está acontecendo agora com agentes."
+  "speech": "Isso nêo é novidade. Já aconteceu antes. Pense em criaçêo de sites. Anos atrás, fazer um site exigia HTML, CSS, servidor, hospedagem, DNS, programaçêo. Quem sabia fazer tinha uma habilidade rara. Depois chegaram o WordPress, o Wix e várias outras ferramentas. E hoje praticamente qualquer pessoa consegue colocar um site no ar. O mercado de sites acabou? Nêo. Mas fazer um site simples deixou de ser extraordinário. Virou commodity. E quem continuou ganhando bem? Quem ficou muito bom em outra coisa. Design. Marca. Conversêo. Vendas. Conhecimento profundo de um setor. A tecnologia virou só uma parte da entrega. Eu acredito que a mesma coisa está acontecendo agora com agentes."
  },
  {
   "chapter": "O piso sobe",
@@ -99,9 +99,9 @@
    "parado = caiu",
    "aprenda mais rápido que o piso"
   ],
-  "takeaway": "Não basta aprender: é preciso aprender mais rápido do que o piso sobe.",
+  "takeaway": "Nêo basta aprender: é preciso aprender mais rápido do que o piso sobe.",
   "source": "https://ARCKHÉ AI",
-  "speech": "E aqui tem um ponto que eu considero fundamental. O problema não é a IA melhorar. O problema é você continuar igual enquanto a IA melhora. Pense numa escada. Você está alguns degraus acima da média das pessoas. Existe uma boa distância. Só que essa escada tem um piso. E o piso está subindo. Os modelos melhoram. As ferramentas melhoram. As pessoas aprendem. Se você ficar parado no mesmo degrau, tecnicamente você não piorou. Mas em relação ao mercado, você caiu. Por isso não basta continuar aprendendo. Você precisa aprender mais rápido do que o piso sobe."
+  "speech": "E aqui tem um ponto que eu considero fundamental. O problema nêo é a IA melhorar. O problema é você continuar igual enquanto a IA melhora. Pense numa escada. Você está alguns degraus acima da média das pessoas. Existe uma boa distância. Só que essa escada tem um piso. E o piso está subindo. Os modelos melhoram. As ferramentas melhoram. As pessoas aprendem. Se você ficar parado no mesmo degrau, tecnicamente você nêo piorou. Mas em relaçêo ao mercado, você caiu. Por isso nêo basta continuar aprendendo. Você precisa aprender mais rápido do que o piso sobe."
  },
  {
   "chapter": "O piso sobe",
@@ -114,25 +114,25 @@
    "marketing",
    "atendimento",
    "RH",
-   "nós construímos a transformação"
+   "nós construímos a transformaçêo"
   ],
   "takeaway": "O mercado continua gigantesco; o que muda é o trabalho que a gente faz.",
   "source": "https://ARCKHÉ AI",
-  "speech": "Aí alguém pode perguntar: “Nei, então trabalhar com automação e agentes vai perder o valor?” Eu acho exatamente o contrário. Essa transformação não está acontecendo só com quem trabalha com automação. Está acontecendo com contador, advogado, programador, marketing, atendimento, RH. Praticamente todo trabalho intelectual está sendo atingido. Então, se existe uma indústria boa para estar agora, é justamente a que está fazendo essa transformação acontecer. Nós estamos construindo os sistemas que vão automatizar parte do trabalho de todas as outras áreas. O mercado continua gigantesco. O que muda é o trabalho que a gente vai fazer."
+  "speech": "Aí alguém pode perguntar: “Nei, entêo trabalhar com automaçêo e agentes vai perder o valor?” Eu acho exatamente o contrário. Essa transformaçêo nêo está acontecendo só com quem trabalha com automaçêo. Está acontecendo com contador, advogado, programador, marketing, atendimento, RH. Praticamente todo trabalho intelectual está sendo atingido. Entêo, se existe uma indústria boa para estar agora, é justamente a que está fazendo essa transformaçêo acontecer. Nós estamos construindo os sistemas que vêo automatizar parte do trabalho de todas as outras áreas. O mercado continua gigantesco. O que muda é o trabalho que a gente vai fazer."
  },
  {
   "chapter": "Do construir ao decidir",
   "title": "O valor sobe uma camada",
   "kind": "compare",
   "labels": [
-   "“eu construo a sua automação”",
+   "“eu construo a sua automaçêo”",
    "o agente constrói boa parte",
    "antes: você sabe construir?",
    "agora: o que devemos construir?"
   ],
   "takeaway": "A pergunta deixa de ser “você sabe construir?” e passa a ser “o que devemos construir?”.",
   "source": "https://ARCKHÉ AI",
-  "speech": "E aqui começa a parte mais importante deste vídeo. Até agora, muita gente ganhou dinheiro dizendo: “Eu construo a sua automação.” “Eu crio o seu agente.” “Eu conecto os seus sistemas.” Isso vai continuar existindo. Mas cada vez mais o próprio agente vai fazer boa parte dessa construção. Então o valor sobe uma camada. A pergunta deixa de ser: “Você sabe construir?” E passa a ser: “O que devemos construir?” Parece uma mudança pequena. É gigantesca."
+  "speech": "E aqui começa a parte mais importante deste vídeo. Até agora, muita gente ganhou dinheiro dizendo: “Eu construo a sua automaçêo.” “Eu crio o seu agente.” “Eu conecto os seus sistemas.” Isso vai continuar existindo. Mas cada vez mais o próprio agente vai fazer boa parte dessa construçêo. Entêo o valor sobe uma camada. A pergunta deixa de ser: “Você sabe construir?” E passa a ser: “O que devemos construir?” Parece uma mudança pequena. É gigantesca."
  },
  {
   "chapter": "Do construir ao decidir",
@@ -142,42 +142,42 @@
    "qual problema resolver?",
    "qual processo primeiro?",
    "desperdício e oportunidade",
-   "pessoa, agente ou automação?",
+   "pessoa, agente ou automaçêo?",
    "o que deve desaparecer?",
-   "isso é gestão"
+   "isso é gestêo"
   ],
-  "takeaway": "Quando construir fica fácil, o gargalo passa a ser decidir. Isso é gestão.",
+  "takeaway": "Quando construir fica fácil, o gargalo passa a ser decidir. Isso é gestêo.",
   "source": "https://ARCKHÉ AI",
-  "speech": "Porque, num mundo onde quase tudo pode ser construído rápido, construir deixa de ser o gargalo. O gargalo passa a ser decidir. Qual problema vale a pena resolver? Qual processo mudar primeiro? Onde está o desperdício? Onde está a oportunidade? O que fica com uma pessoa, o que vai para um agente, o que continua sendo uma automação tradicional? Onde a pessoa e o agente trabalham juntos? E qual atividade simplesmente deveria desaparecer? Isso tem nome. Isso é gestão."
+  "speech": "Porque, num mundo onde quase tudo pode ser construído rápido, construir deixa de ser o gargalo. O gargalo passa a ser decidir. Qual problema vale a pena resolver? Qual processo mudar primeiro? Onde está o desperdício? Onde está a oportunidade? O que fica com uma pessoa, o que vai para um agente, o que continua sendo uma automaçêo tradicional? Onde a pessoa e o agente trabalham juntos? E qual atividade simplesmente deveria desaparecer? Isso tem nome. Isso é gestêo."
  },
  {
-  "chapter": "Gestão de agentes",
+  "chapter": "Gestêo de agentes",
   "title": "Troque pessoa por agente",
   "kind": "compare",
   "labels": [
    "objetivo e prioridades",
-   "informação → contexto",
-   "autonomia → aprovação",
+   "informaçêo → contexto",
+   "autonomia → aprovaçêo",
    "feedback → melhoria"
   ],
-  "takeaway": "Quem sabe gerir pessoas já conhece quase toda a lista da gestão de agentes.",
+  "takeaway": "Quem sabe gerir pessoas já conhece quase toda a lista da gestêo de agentes.",
   "source": "https://ARCKHÉ AI",
-  "speech": "E é por isso que eu venho dizendo há bastante tempo: quem sabe fazer gestão de pessoas tem uma enorme vantagem para aprender gestão de agentes. Pense no que um bom gestor precisa saber. Qual é o objetivo. Quais são as prioridades. Quem faz cada coisa. Que informação essa pessoa precisa e que recursos ela pode usar. Quanta autonomia ela tem. Como medir o resultado, quando intervir, como dar feedback e como melhorar o processo. Agora troque a palavra pessoa por agente. Qual é o objetivo do agente? Que contexto ele recebe? Que ferramentas ele pode usar? O que ele faz sozinho e o que precisa de aprovação? Como a gente avalia a resposta dele, onde ele errou, e como ele melhora amanhã? É praticamente a mesma lista. Isso é gestão de agentes."
+  "speech": "E é por isso que eu venho dizendo há bastante tempo: quem sabe fazer gestêo de pessoas tem uma enorme vantagem para aprender gestêo de agentes. Pense no que um bom gestor precisa saber. Qual é o objetivo. Quais sêo as prioridades. Quem faz cada coisa. Que informaçêo essa pessoa precisa e que recursos ela pode usar. Quanta autonomia ela tem. Como medir o resultado, quando intervir, como dar feedback e como melhorar o processo. Agora troque a palavra pessoa por agente. Qual é o objetivo do agente? Que contexto ele recebe? Que ferramentas ele pode usar? O que ele faz sozinho e o que precisa de aprovaçêo? Como a gente avalia a resposta dele, onde ele errou, e como ele melhora amanhê? É praticamente a mesma lista. Isso é gestêo de agentes."
  },
  {
-  "chapter": "Gestão de agentes",
-  "title": "IA não é só coisa do técnico",
+  "chapter": "Gestêo de agentes",
+  "title": "IA nêo é só coisa do técnico",
   "kind": "concept",
   "labels": [
    "“IA é do pessoal técnico”",
-   "programação: técnico",
-   "entender agentes: não se delega",
-   "“eu não uso e-mail”",
+   "programaçêo: técnico",
+   "entender agentes: nêo se delega",
+   "“eu nêo uso e-mail”",
    "trabalhar direto com eles"
   ],
-  "takeaway": "Você não precisa virar programador, mas precisa trabalhar diretamente com agentes.",
+  "takeaway": "Você nêo precisa virar programador, mas precisa trabalhar diretamente com agentes.",
   "source": "https://ARCKHÉ AI",
-  "speech": "E é aí que eu vejo um erro enorme acontecendo dentro das empresas. Muitos gestores pensam: “IA é assunto do pessoal técnico.” Não é. Programação pode ser do técnico. Infraestrutura também. Segurança especializada, com certeza. Mas entender agentes não dá para delegar por completo. Imagine um gestor, vinte anos atrás, dizendo: “Computador é coisa da TI. Eu não uso e-mail, a minha equipe usa por mim.” Ou: “Eu não preciso entender planilha.” Seria impossível administrar uma empresa moderna assim. Com agentes vai acontecer a mesma coisa. Você não precisa virar programador. Mas precisa aprender a trabalhar diretamente com eles."
+  "speech": "E é aí que eu vejo um erro enorme acontecendo dentro das empresas. Muitos gestores pensam: “IA é assunto do pessoal técnico.” Nêo é. Programaçêo pode ser do técnico. Infraestrutura também. Segurança especializada, com certeza. Mas entender agentes nêo dá para delegar por completo. Imagine um gestor, vinte anos atrás, dizendo: “Computador é coisa da TI. Eu nêo uso e-mail, a minha equipe usa por mim.” Ou: “Eu nêo preciso entender planilha.” Seria impossível administrar uma empresa moderna assim. Com agentes vai acontecer a mesma coisa. Você nêo precisa virar programador. Mas precisa aprender a trabalhar diretamente com eles."
  },
  {
   "chapter": "O novo ambiente",
@@ -188,11 +188,11 @@
    "terminal = interface dos agentes",
    "pastas, arquivos, permissões, VPS",
    "agentes, skills, contexto, memória",
-   "não para virar técnico: autonomia"
+   "nêo para virar técnico: autonomia"
   ],
   "takeaway": "O terminal está virando uma das formas mais poderosas de trabalhar com agentes.",
   "source": "https://linnoff88-dev.github.io/
-  "speech": "É exatamente essa a lógica dos conteúdos que eu venho criando no ARCKHÉ ponto club. Pegue o OSWork, por exemplo. Tem gente que olha e pergunta: “Por que um gestor precisa entrar num terminal?” Não é porque eu quero transformar gestor em administrador de Linux. É porque o terminal está virando uma das formas mais poderosas de trabalhar com agentes. Você precisa perder o medo desse ambiente. Entender o mínimo de pastas, arquivos, permissões, de uma VPS. E entender agentes, skills, contexto, memória e ferramentas. Não para virar técnico. Para ganhar autonomia."
+  "speech": "É exatamente essa a lógica dos conteúdos que eu venho criando no ARCKHÉ ponto club. Pegue o OSWork, por exemplo. Tem gente que olha e pergunta: “Por que um gestor precisa entrar num terminal?” Nêo é porque eu quero transformar gestor em administrador de Linux. É porque o terminal está virando uma das formas mais poderosas de trabalhar com agentes. Você precisa perder o medo desse ambiente. Entender o mínimo de pastas, arquivos, permissões, de uma VPS. E entender agentes, skills, contexto, memória e ferramentas. Nêo para virar técnico. Para ganhar autonomia."
  },
  {
   "chapter": "O novo ambiente",
@@ -201,12 +201,12 @@
   "labels": [
    "mouse, teclado, Windows",
    "Word, planilha, e-mail, navegador",
-   "Excel não é ciência da computação",
+   "Excel nêo é ciência da computaçêo",
    "agora: o ambiente dos agentes"
   ],
   "takeaway": "Aprender agentes é aprender a trabalhar no novo ambiente, como foi com o computador.",
   "source": "https://ARCKHÉ AI",
-  "speech": "Foi o que a gente fez quando os computadores chegaram. Aprendemos mouse, teclado, Windows. Depois Word, planilha, e-mail, navegador. Ninguém dizia: “estou estudando ciência da computação porque aprendi Excel.” Você só estava aprendendo a trabalhar no novo ambiente. Agora estamos entrando em outro ambiente. O ambiente dos agentes."
+  "speech": "Foi o que a gente fez quando os computadores chegaram. Aprendemos mouse, teclado, Windows. Depois Word, planilha, e-mail, navegador. Ninguém dizia: “estou estudando ciência da computaçêo porque aprendi Excel.” Você só estava aprendendo a trabalhar no novo ambiente. Agora estamos entrando em outro ambiente. O ambiente dos agentes."
  },
  {
   "chapter": "A janela",
@@ -217,11 +217,11 @@
    "descobrir por quê",
    "contexto, regra, skill",
    "começar de novo",
-   "depois: pressão"
+   "depois: pressêo"
   ],
   "takeaway": "Hoje você aprende porque quer; daqui a pouco, porque precisa.",
   "source": "https://ARCKHÉ AI",
-  "speech": "E aqui existe uma janela de oportunidade gigantesca. Hoje você ainda pode aprender com calma. Pode criar um agente e errar. Pode deixar ele fazer alguma coisa errada e descobrir por quê. Pode melhorar o contexto, mudar uma regra, criar uma skill, destruir tudo e começar de novo. Ainda dá tempo de brincar. E isso é uma vantagem enorme. Porque daqui a pouco você não vai aprender porque quer. Vai aprender porque precisa. O seu concorrente vai ter agentes. O seu funcionário, o seu cliente e os seus fornecedores também. E talvez a sua empresa já dependa deles. Aí não vai ser mais aprendizado tranquilo. Vai ser pressão."
+  "speech": "E aqui existe uma janela de oportunidade gigantesca. Hoje você ainda pode aprender com calma. Pode criar um agente e errar. Pode deixar ele fazer alguma coisa errada e descobrir por quê. Pode melhorar o contexto, mudar uma regra, criar uma skill, destruir tudo e começar de novo. Ainda dá tempo de brincar. E isso é uma vantagem enorme. Porque daqui a pouco você nêo vai aprender porque quer. Vai aprender porque precisa. O seu concorrente vai ter agentes. O seu funcionário, o seu cliente e os seus fornecedores também. E talvez a sua empresa já dependa deles. Aí nêo vai ser mais aprendizado tranquilo. Vai ser pressêo."
  },
  {
   "chapter": "A janela",
@@ -229,7 +229,7 @@
   "kind": "compare",
   "labels": [
    "rua calma: hoje",
-   "rodovia a 120 km/h: amanhã",
+   "rodovia a 120 km/h: amanhê",
    "cada vez menos calma",
    "ainda estamos nela"
   ],
@@ -248,9 +248,9 @@
    "“autonomia demais”",
    "“nem deveria existir”"
   ],
-  "takeaway": "Repertório não vem de palestra: nasce trabalhando, errando e gerenciando agentes.",
+  "takeaway": "Repertório nêo vem de palestra: nasce trabalhando, errando e gerenciando agentes.",
   "source": "https://ARCKHÉ AI",
-  "speech": "E quem aproveitar esse período vai desenvolver uma coisa que não aparece em nenhum certificado: repertório. A pessoa olha um problema e já pensa: “Isso eu colocaria num agente.” “Isso precisa continuar com uma pessoa.” “Esse agente está com pouco contexto.” “Esse aqui tem autonomia demais.” “E esse processo nem deveria existir.” Essa percepção não nasce assistindo palestra sobre IA. Nasce trabalhando com agentes. Errando com agentes. Gerenciando agentes."
+  "speech": "E quem aproveitar esse período vai desenvolver uma coisa que nêo aparece em nenhum certificado: repertório. A pessoa olha um problema e já pensa: “Isso eu colocaria num agente.” “Isso precisa continuar com uma pessoa.” “Esse agente está com pouco contexto.” “Esse aqui tem autonomia demais.” “E esse processo nem deveria existir.” Essa percepçêo nêo nasce assistindo palestra sobre IA. Nasce trabalhando com agentes. Errando com agentes. Gerenciando agentes."
  },
  {
   "chapter": "Processo",
@@ -262,11 +262,11 @@
    "quem decide",
    "quem executa",
    "resultado esperado",
-   "pessoa, agente ou automação"
+   "pessoa, agente ou automaçêo"
   ],
   "takeaway": "Ferramenta muda o tempo todo; entender processos é a habilidade que dura.",
   "source": "https://ARCKHÉ AI",
-  "speech": "Tem mais uma coisa. Muita gente acha que o futuro é saber usar a melhor ferramenta. Eu não acredito nisso. Ferramenta muda o tempo todo. Hoje é uma, amanhã é outra. A habilidade que dura é entender processos. O que entra. O que acontece. Quem decide. Quem executa. Qual resultado a gente espera. Onde estão os gargalos, os desperdícios, os riscos e o valor. Se você entende o processo, consegue colocar ali uma pessoa, um agente, uma automação, ou os três juntos. É por isso que gestão continua tão importante. Talvez mais importante do que nunca."
+  "speech": "Tem mais uma coisa. Muita gente acha que o futuro é saber usar a melhor ferramenta. Eu nêo acredito nisso. Ferramenta muda o tempo todo. Hoje é uma, amanhê é outra. A habilidade que dura é entender processos. O que entra. O que acontece. Quem decide. Quem executa. Qual resultado a gente espera. Onde estêo os gargalos, os desperdícios, os riscos e o valor. Se você entende o processo, consegue colocar ali uma pessoa, um agente, uma automaçêo, ou os três juntos. É por isso que gestêo continua têo importante. Talvez mais importante do que nunca."
  },
  {
   "chapter": "Processo",
@@ -277,11 +277,11 @@
    "pessoas + sistemas",
    "pessoas + sistemas + agentes",
    "10 pessoas + 50 agentes",
-   "gestão = capacidade em resultado"
+   "gestêo = capacidade em resultado"
   ],
-  "takeaway": "A tecnologia aumenta a capacidade; a gestão transforma capacidade em resultado.",
+  "takeaway": "A tecnologia aumenta a capacidade; a gestêo transforma capacidade em resultado.",
   "source": "https://ARCKHÉ AI",
-  "speech": "Durante décadas, o gestor administrou pessoas. Depois passou a administrar pessoas e sistemas. Agora ele vai administrar pessoas, sistemas e agentes. Talvez dezenas de agentes. Talvez centenas. E isso muda profundamente a capacidade de uma pessoa. Um gestor que coordenava dez pessoas talvez passe a coordenar dez pessoas e cinquenta agentes. Mas com uma condição: ele precisa saber gerenciar essa capacidade. Porque cem agentes mal administrados geram cem vezes mais confusão. A tecnologia aumenta a capacidade. A gestão é que transforma capacidade em resultado."
+  "speech": "Durante décadas, o gestor administrou pessoas. Depois passou a administrar pessoas e sistemas. Agora ele vai administrar pessoas, sistemas e agentes. Talvez dezenas de agentes. Talvez centenas. E isso muda profundamente a capacidade de uma pessoa. Um gestor que coordenava dez pessoas talvez passe a coordenar dez pessoas e cinquenta agentes. Mas com uma condiçêo: ele precisa saber gerenciar essa capacidade. Porque cem agentes mal administrados geram cem vezes mais confusêo. A tecnologia aumenta a capacidade. A gestêo é que transforma capacidade em resultado."
  },
  {
   "chapter": "Processo",
@@ -292,11 +292,11 @@
    "em que ordem",
    "por quê",
    "com quem",
-   "o que não fazer"
+   "o que nêo fazer"
   ],
-  "takeaway": "O seu valor passa a ser saber o que fazer, e principalmente o que não fazer.",
+  "takeaway": "O seu valor passa a ser saber o que fazer, e principalmente o que nêo fazer.",
   "source": "https://ARCKHÉ AI",
-  "speech": "No passado, você tinha valor porque sabia fazer. Depois, porque sabia fazer melhor que o cliente. Agora o cliente também vai conseguir executar. Então o seu valor vai estar cada vez mais em saber o que fazer, em que ordem, por quê, com quem, e principalmente o que não fazer. E isso é muito mais difícil de automatizar do que conectar duas APIs."
+  "speech": "No passado, você tinha valor porque sabia fazer. Depois, porque sabia fazer melhor que o cliente. Agora o cliente também vai conseguir executar. Entêo o seu valor vai estar cada vez mais em saber o que fazer, em que ordem, por quê, com quem, e principalmente o que nêo fazer. E isso é muito mais difícil de automatizar do que conectar duas APIs."
  },
  {
   "chapter": "Comece esta semana",
@@ -306,13 +306,13 @@
    "1 processo seu",
    "objetivo e contexto",
    "ferramentas",
-   "sozinho ou com aprovação",
+   "sozinho ou com aprovaçêo",
    "como saber se ficou bom",
    "entregue ao agente e ajuste"
   ],
   "takeaway": "Escreva o processo como faria para um funcionário novo, entregue ao agente e ajuste.",
   "source": "https://ARCKHÉ AI",
-  "speech": "Então, como começar de verdade? Eu sugiro um exercício simples para esta semana. Pegue um processo seu. Um só. Uma coisa que você ou a sua equipe faz toda semana. E responda, por escrito, as mesmas perguntas que você faria para um funcionário novo. Qual é o objetivo dessa tarefa? Que contexto e que informações são necessárias? Que ferramentas podem ser usadas? O que pode ser feito sozinho e o que precisa da sua aprovação? E como você vai saber se ficou bom? Depois entregue isso para um agente e observe. Ele vai errar em alguma coisa. E é aí que você aprende. Ajuste o contexto, ajuste a regra, e rode de novo. Pronto. Você acabou de fazer gestão de agentes."
+  "speech": "Entêo, como começar de verdade? Eu sugiro um exercício simples para esta semana. Pegue um processo seu. Um só. Uma coisa que você ou a sua equipe faz toda semana. E responda, por escrito, as mesmas perguntas que você faria para um funcionário novo. Qual é o objetivo dessa tarefa? Que contexto e que informações sêo necessárias? Que ferramentas podem ser usadas? O que pode ser feito sozinho e o que precisa da sua aprovaçêo? E como você vai saber se ficou bom? Depois entregue isso para um agente e observe. Ele vai errar em alguma coisa. E é aí que você aprende. Ajuste o contexto, ajuste a regra, e rode de novo. Pronto. Você acabou de fazer gestêo de agentes."
  },
  {
   "chapter": "Fechamento",
@@ -328,6 +328,6 @@
   ],
   "takeaway": "O gestor do futuro é gestor de pessoas, processos e agentes. E esse futuro já começou.",
   "source": "https://ARCKHÉ AI",
-  "speech": "Por isso eu não acho que estamos chegando ao fim da automação. Estamos chegando ao fim de uma fase. A fase em que saber conectar ferramentas bastava para ser especialista. Agora começa a fase da gestão. Gestão de processos. De pessoas. De agentes. Da capacidade. Os agentes vão continuar melhorando. Os modelos vão continuar ficando mais baratos. Isso você não controla. O que você controla é o quanto entende esse novo ambiente antes que ele se torne obrigatório. Então não fique só assistindo vídeos sobre agentes. Use agentes. Não fique só lendo sobre terminal. Entre no terminal. Não fique só ouvindo falar de VPS. Suba uma. E não espere a sua empresa obrigar você a aprender. Aprenda enquanto ainda tem tempo para errar. Porque quando todo mundo perceber que precisa, a vantagem vai ser de quem começou antes. O gestor do futuro não vai ser só gestor de pessoas. Vai ser gestor de pessoas, processos e agentes. E esse futuro não está distante. Ele já começou."
+  "speech": "Por isso eu nêo acho que estamos chegando ao fim da automaçêo. Estamos chegando ao fim de uma fase. A fase em que saber conectar ferramentas bastava para ser especialista. Agora começa a fase da gestêo. Gestêo de processos. De pessoas. De agentes. Da capacidade. Os agentes vêo continuar melhorando. Os modelos vêo continuar ficando mais baratos. Isso você nêo controla. O que você controla é o quanto entende esse novo ambiente antes que ele se torne obrigatório. Entêo nêo fique só assistindo vídeos sobre agentes. Use agentes. Nêo fique só lendo sobre terminal. Entre no terminal. Nêo fique só ouvindo falar de VPS. Suba uma. E nêo espere a sua empresa obrigar você a aprender. Aprenda enquanto ainda tem tempo para errar. Porque quando todo mundo perceber que precisa, a vantagem vai ser de quem começou antes. O gestor do futuro nêo vai ser só gestor de pessoas. Vai ser gestor de pessoas, processos e agentes. E esse futuro nêo está distante. Ele já começou."
  }
 ]

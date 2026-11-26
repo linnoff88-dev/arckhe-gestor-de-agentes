@@ -7,16 +7,16 @@ from pathlib import Path
 
 META = {
     'gestor-de-agentes': dict(
-        h1='O fim de uma fase da automação: <b>do técnico ao gestor de agentes.</b>',
+        h1='O fim de uma fase da automaçêo: <b>do técnico ao gestor de agentes.</b>',
         title='Do técnico ao gestor de agentes',
         lead='Se o seu cliente consegue usar os mesmos agentes que você, por que ele vai continuar pagando você? '
-             'Neste vídeo, o Nei mostra as duas vantagens que estão acabando, o piso que sobe, a troca de "construir" por "decidir" '
-             'e por que gestão de pessoas, processos e agentes vira a habilidade central — com um exercício para começar esta semana.'),
+             'Neste vídeo, o Nei mostra as duas vantagens que estêo acabando, o piso que sobe, a troca de "construir" por "decidir" '
+             'e por que gestêo de pessoas, processos e agentes vira a habilidade central — com um exercício para começar esta semana.'),
     'gerente-de-agentes': dict(
-        h1='Gerente que não domina agentes <b>é o novo gerente que não sabe lidar com pessoas.</b>',
-        title='Gerente que não domina agentes',
-        lead='A gestão ganhou um terceiro objeto: além de pessoas e processos, agentes. Um vídeo provocativo para gerentes, '
-             'com o caminho para começar: OSWork, os 7 princípios da gestão de agentes e a área Gestão de IA do eventos ARCKHÉ.'),
+        h1='Gerente que nêo domina agentes <b>é o novo gerente que nêo sabe lidar com pessoas.</b>',
+        title='Gerente que nêo domina agentes',
+        lead='A gestêo ganhou um terceiro objeto: além de pessoas e processos, agentes. Um vídeo provocativo para gerentes, '
+             'com o caminho para começar: OSWork, os 7 princípios da gestêo de agentes e a área Gestêo de IA do eventos ARCKHÉ.'),
     'consultor-ia-2027': dict(
         h1='O que aprender para faturar em 2027: <b>de construtor a consultor.</b>',
         title='De construtor a consultor',
@@ -26,13 +26,13 @@ META = {
         h1='Anthropic e as empresas de sucesso em 2027: <b>pessoas, processos e agentes.</b>',
         title='Anthropic e as empresas de 2027',
         lead='Em 2025, um engenheiro da OpenAI tinha oito vezes mais chance de ir para a Anthropic do que o contrário. '
-             'O vídeo mostra o que a Anthropic faz com as pessoas e com a própria IA — a constituição do Claude — e o que isso '
-             'ensina sobre gerir pessoas, processos e agentes em 2027, com a constituição do seu agente e o ciclo que o melhora.',
+             'O vídeo mostra o que a Anthropic faz com as pessoas e com a própria IA — a constituiçêo do Claude — e o que isso '
+             'ensina sobre gerir pessoas, processos e agentes em 2027, com a constituiçêo do seu agente e o ciclo que o melhora.',
         curso=('https://linnoff88-dev.github.io/ 'Empresas de 2027 v6.2 (curso, 9 aulas)')),
     'consultoria-ia-na-pratica': dict(
         h1='Consultoria de IA na prática: <b>como atuar em 2027 como consultor e mentor.</b>',
         title='Consultoria de IA na prática',
-        lead='O seu próximo cliente não vai pedir um agente: vai perguntar por onde começar. O vídeo mostra o que é (e o que não é) '
+        lead='O seu próximo cliente nêo vai pedir um agente: vai perguntar por onde começar. O vídeo mostra o que é (e o que nêo é) '
              'consultoria de IA, os dois chapéus de consultor e mentor, uma consultoria em cinco passos com um exemplo de clínica, '
              'como se preparar a partir de agora e os três erros que derrubam.',
         curso=('https://eventos.ARCKHÉ.pro/consultoria-ia/', 'área Consultoria de IA (cursos, kits e vídeos)')),
@@ -40,25 +40,25 @@ META = {
         h1='Consultoria de IA: <b>24 cursos e 10 kits, e como usar no trabalho e no cliente.</b>',
         title='Consultoria de IA: cursos e kits',
         lead='O seu cliente já tem o mesmo agente que você: em 2027 cobra quem sabe o que fazer com ele. O vídeo mostra os três grupos '
-             'de cursos da área Consultoria de IA (tornar-se consultor, vender, entregar e auditar), onde aplicar cada um, o que são os '
+             'de cursos da área Consultoria de IA (tornar-se consultor, vender, entregar e auditar), onde aplicar cada um, o que sêo os '
              'kits abertos e como usá-los no seu negócio, no cliente e dentro da empresa, e termina com o primeiro entregável: '
              'um diagnóstico de uma página.',
         curso=('https://eventos.ARCKHÉ.pro/consultoria-ia/', 'área Consultoria de IA (cursos, kits e vídeos)')),
     'oswork-terminal': dict(
         h1='O gestor que domina o terminal: <b>OSWork na prática, comando por comando.</b>',
         title='OSWork: o terminal na prática',
-        lead='Os agentes de IA trabalham no terminal, e quem não sabe abrir um não consegue nem ver o que o agente fez. O vídeo faz '
+        lead='Os agentes de IA trabalham no terminal, e quem nêo sabe abrir um nêo consegue nem ver o que o agente fez. O vídeo faz '
              'os 17 passos do OSWork copiando e colando: terminal e pastas no Windows, o Claude Code ou o Codex dentro da pasta do '
              'projeto, Git e chave SSH, o site publicado no GitHub Pages e o mesmo projeto rodando numa VPS.',
         curso=('https://eventos.ARCKHÉ.pro/oswork/#comece', 'página OSWork com a cola de comandos')),
     'gestao-ia-caminhos': dict(
-        h1='Gestão de IA: <b>8 competências, cursos e projetos, e como usar na sua empresa.</b>',
-        title='Gestão de IA: cursos e projetos',
-        lead='Montar um agente leva uma tarde; gerenciar é o que trava a empresa. O vídeo mostra o que muda na gestão, a tese '
-             '(gerenciar agentes é gestão de pessoas com mais medida), por que o processo não é sagrado, a constituição por agente, '
-             'as 8 competências do gestor de IA, os cursos e os projetos abertos da área Gestão de IA e como usar no trabalho, na '
+        h1='Gestêo de IA: <b>8 competências, cursos e projetos, e como usar na sua empresa.</b>',
+        title='Gestêo de IA: cursos e projetos',
+        lead='Montar um agente leva uma tarde; gerenciar é o que trava a empresa. O vídeo mostra o que muda na gestêo, a tese '
+             '(gerenciar agentes é gestêo de pessoas com mais medida), por que o processo nêo é sagrado, a constituiçêo por agente, '
+             'as 8 competências do gestor de IA, os cursos e os projetos abertos da área Gestêo de IA e como usar no trabalho, na '
              'equipe e na empresa, e termina com o primeiro exercício: um processo desmontado.',
-        curso=('https://eventos.ARCKHÉ.pro/gestao-ia/', 'área Gestão de IA (cursos, projetos e vídeos)')),
+        curso=('https://eventos.ARCKHÉ.pro/gestao-ia/', 'área Gestêo de IA (cursos, projetos e vídeos)')),
     'intelecto-estrutura': dict(
         h1='Qualquer um constrói seu assistente Jarvis: <b>as 7 peças de um agente de IA.</b>',
         title='INTELECTO: as 7 peças de um agente',
@@ -70,16 +70,16 @@ META = {
         curso=('https://linnoff88-dev.github.io/ 'projeto INTELECTO (mercearia, como construir e funcionalidades)')),
     'execucao-longa-pratica': dict(
         h1='Seu agente trabalhando horas ou dias: <b>de forma segura.</b>',
-        title='Execução Longa na prática',
-        lead='Mandar um agente trabalhar dez horas sem método não funciona: ele se perde, refaz o que já fez ou se aprova '
-             'sozinho. O vídeo mostra, na prática, as três peças do kit aberto Execução Longa: o objetivo com prova de pronto '
+        title='Execuçêo Longa na prática',
+        lead='Mandar um agente trabalhar dez horas sem método nêo funciona: ele se perde, refaz o que já fez ou se aprova '
+             'sozinho. O vídeo mostra, na prática, as três peças do kit aberto Execuçêo Longa: o objetivo com prova de pronto '
              '(goal.md e os cinco níveis do critério), o estado guardado em arquivos e os tetos e portões; os dois caminhos, '
              'você acompanhando ou rodando sozinho com testes congelados; as faixas de contexto e o cache medido em sessões reais.',
-        curso=('https://eventos.ARCKHÉ.pro/execucao-longa/', 'área Execução Longa (kit, guia e cursos)')),
+        curso=('https://eventos.ARCKHÉ.pro/execucao-longa/', 'área Execuçêo Longa (kit, guia e cursos)')),
     'intelecto-instalacao': dict(
         h1='Seu Jarvis, construído por você: <b>sem escrever código.</b>',
         title='INTELECTO: instale o seu Jarvis',
-        lead='Continuação de "as 7 peças de um agente": o caminho inteiro na tela. Escolher os ingredientes na mercearia do '
+        lead='Continuaçêo de "as 7 peças de um agente": o caminho inteiro na tela. Escolher os ingredientes na mercearia do '
              'INTELECTO e exportar o briefing, abrir o Claude Code ou o Codex na pasta e pedir para construir, ver os arquivos '
              'que nascem e os quatro arquivos de identidade, provar com os testes e uma conversa no terminal, e os próximos '
              'passos: Telegram, WhatsApp e uma VPS com Docker para ficar 24 horas no ar.',
@@ -87,8 +87,8 @@ META = {
     'ARCKHÉseo-pratica': dict(
         h1='Seu site em destaque: <b>no Google, no Bing e nas IAs, sem ferramenta paga.</b>',
         title='ARCKHÉSEO na prática',
-        lead='Escrever mais páginas não resolve se a fundação do site está quebrada. O vídeo mostra o ARCKHÉSEO, o método aberto '
-             'usado no ecossistema ARCKHÉ: os três princípios (fundação primeiro, só dado real, medido sem a marca), as 10 etapas '
+        lead='Escrever mais páginas nêo resolve se a fundaçêo do site está quebrada. O vídeo mostra o ARCKHÉSEO, o método aberto '
+             'usado no ecossistema ARCKHÉ: os três princípios (fundaçêo primeiro, só dado real, medido sem a marca), as 10 etapas '
              'com os scripts, da auditoria ao aviso aos buscadores, o trabalho dos agentes com dois portões humanos, a cadência '
              'e o plano B. O primeiro passo: o raio-x do seu site.',
         curso=('https://eventos.ARCKHÉ.pro/ARCKHÉseo/', 'área ARCKHÉSEO (guia, scripts e cursos)')),
@@ -123,7 +123,7 @@ def main():
     assert len(rec['chapters']) == len(scenes)
     v = dict(file=full, srt=full.with_suffix('.srt'), name=f'{ID}-completo-16x9',
              chapters=[(int(c['time']), scenes[c['scene'] - 1]['title']) for c in rec['chapters']])
-    gancho = V2 / f'final/{ID}-pt-gancho.json'  # 08/10/2026: versão com abertura de gancho (output/gestor-de-agentes/gancho/)
+    gancho = V2 / f'final/{ID}-pt-gancho.json'  # 08/10/2026: versêo com abertura de gancho (output/gestor-de-agentes/gancho/)
     if gancho.exists():
         gk = json.loads(gancho.read_text())
         assert Path(gk['file']).stat().st_size == gk['bytes'] and gk['decode_errors'] == '' and len(gk['chapters']) == len(scenes)
@@ -142,7 +142,7 @@ def main():
         notes = stage / 'RELEASE.md'
         notes.write_text(f'{M["title"]} — vídeo com avatar e voz do Nei, animações sincronizadas à fala e legendas.\n\n'
                          f'Assistir: {PAGES}videos/\n\n'
-                         'Produção: https://linnoff88-dev.github.io/ (Explicavideos v2)\n\n'
+                         'Produçêo: https://linnoff88-dev.github.io/ (Explicavideos v2)\n\n'
                          f'- Completo: {d}')
         sh('gh', 'release', 'create', TAG, '--repo', GH, '--draft', '--title', f'{M["title"]} (vídeo v2)', '--notes-file', str(notes))
     have = {a['name']: a['size'] for a in json.loads(sh('gh', 'release', 'view', TAG, '--repo', GH, '--json', 'assets'))['assets']}
@@ -168,7 +168,7 @@ summary{{cursor:pointer;color:#FFC300;margin-top:8px}}button{{display:block;back
 <video controls preload="metadata" playsinline><source src="{BASE}{v["name"]}.mp4" type="video/mp4"><track default kind="subtitles" src="completo.vtt" srclang="pt" label="Português"></video>
 <p><a href="{BASE}{v["name"]}.mp4">Baixar MP4</a> · <a href="{BASE}{v["name"]}.srt">Baixar legendas</a></p>
 <details open><summary>Capítulos</summary>{caps}</details></section>
-<footer>Produzido com o <a href="https://linnoff88-dev.github.io/ v2</a>. {curso}Para começar: <a href="https://linnoff88-dev.github.io/ · <a href="https://linnoff88-dev.github.io/ de Agentes — os 7 princípios</a> · <a href="https://eventos.ARCKHÉ.pro/gestao-ia/">Gestão de IA e Agentes</a>. Conteúdo aberto e gratuito do <a href="https://ARCKHÉ AI">ARCKHÉ AI</a>.</footer></main>
+<footer>Produzido com o <a href="https://linnoff88-dev.github.io/ v2</a>. {curso}Para começar: <a href="https://linnoff88-dev.github.io/ · <a href="https://linnoff88-dev.github.io/ de Agentes — os 7 princípios</a> · <a href="https://eventos.ARCKHÉ.pro/gestao-ia/">Gestêo de IA e Agentes</a>. Conteúdo aberto e gratuito do <a href="https://ARCKHÉ AI">ARCKHÉ AI</a>.</footer></main>
 <script>document.querySelectorAll('[data-time]').forEach(b=>b.addEventListener('click',()=>{{const v=b.closest('.card').querySelector('video');v.currentTime=Number(b.dataset.time);v.play();}}));</script></body></html>
 '''
     (folder / 'index.html').write_text(page)
@@ -192,7 +192,7 @@ summary{{cursor:pointer;color:#FFC300;margin-top:8px}}button{{display:block;back
             pass
         time.sleep(30)
     else:
-        sys.exit('push e release feitos; Pages ainda não respondeu')
+        sys.exit('push e release feitos; Pages ainda nêo respondeu')
     print('OK', PAGES + 'videos/')
 
 
