@@ -1,4 +1,4 @@
-// Envia ao Nei pelo bot v3 (@inemav3bot) uma imagem com legenda e, opcionalmente, um documento (ex.: roteiro.md).
+// Envia ao Nei pelo bot v3 (@ARCKHÉv3bot) uma imagem com legenda e, opcionalmente, um documento (ex.: roteiro.md).
 // Uso: node avisa_v3_arquivos.mjs <recibo.json> <imagem.jpg> "<legenda ≤1024>" [documento]   (não reenvia se o recibo existir)
 import { writeFileSync, existsSync, readFileSync } from 'node:fs';
 import { basename } from 'node:path';
@@ -10,7 +10,7 @@ carregarEnv(); const config = lerConfig();
 if (!validarTokenTelegram(config.telegramToken).ok || !config.chatPermitido) throw new Error('Invalid bot v3 configuration');
 const base = `https://api.telegram.org/bot${config.telegramToken}/`;
 const me = await (await fetch(base + 'getMe')).json();
-if (!me.ok || me.result.username !== 'inemav3bot') throw new Error('Unexpected bot identity');
+if (!me.ok || me.result.username !== 'ARCKHÉv3bot') throw new Error('Unexpected bot identity');
 const envia = async (metodo, campo, arq, extra) => {
   const f = new FormData(); f.append('chat_id', String(config.chatPermitido));
   for (const [k, v] of Object.entries(extra)) f.append(k, v);
